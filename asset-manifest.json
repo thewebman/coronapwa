@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coronapwa/static/css/main.3d7bb7c8.chunk.css",
+    "main.js": "/coronapwa/static/js/main.fc0c67a6.chunk.js",
+    "main.js.map": "/coronapwa/static/js/main.fc0c67a6.chunk.js.map",
+    "runtime-main.js": "/coronapwa/static/js/runtime-main.5f87c58f.js",
+    "runtime-main.js.map": "/coronapwa/static/js/runtime-main.5f87c58f.js.map",
+    "static/js/2.d1613e94.chunk.js": "/coronapwa/static/js/2.d1613e94.chunk.js",
+    "static/js/2.d1613e94.chunk.js.map": "/coronapwa/static/js/2.d1613e94.chunk.js.map",
+    "index.html": "/coronapwa/index.html",
+    "precache-manifest.ca2edeef1575680f2a90e44096de210f.js": "/coronapwa/precache-manifest.ca2edeef1575680f2a90e44096de210f.js",
+    "service-worker.js": "/coronapwa/service-worker.js",
+    "static/css/main.3d7bb7c8.chunk.css.map": "/coronapwa/static/css/main.3d7bb7c8.chunk.css.map",
+    "static/js/2.d1613e94.chunk.js.LICENSE.txt": "/coronapwa/static/js/2.d1613e94.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f87c58f.js",
+    "static/js/2.d1613e94.chunk.js",
+    "static/css/main.3d7bb7c8.chunk.css",
+    "static/js/main.fc0c67a6.chunk.js"
+  ]
+}
